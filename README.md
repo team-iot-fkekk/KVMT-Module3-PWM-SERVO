@@ -101,3 +101,7 @@
   - **Configured PWM**: Successfully configured Timer pin as PWM.
   - **Code Implementation**: Wrote code to control the servo.
   - **Project Deployment**: Compiled and flashed the code, verifying functionality.
+
+## Reference
+![alt text](images/pinout-left.png)
+![alt text](images/pinout-right.png)
